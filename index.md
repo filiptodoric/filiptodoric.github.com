@@ -1,20 +1,16 @@
 ---
 layout: page
 title: Filip Todoric
-subtitle: Hockey fan, techie, developer
+subtitle: Simple is better than complex. Complex is better than complicated.
 ---
 
-I guess this is where I am supposed to write a bunch of stuff to convince you
-I'm a really cool guy.
+Hi, welcome to my website! I'm Filip Todoric, an ambitious software developer
+and budding entrepreneur. I never want to stop learning; I'm extremely passionate
+about the newest of technologies and business practices. I find inspiration in fast
+growing companies and I hope to run one myself in the future.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum quis dui
-ut egestas. Aliquam sed eros ut nulla ultrices vestibulum. Maecenas nibh nulla,
-finibus vitae iaculis at, porttitor sit amet ante. Fusce rhoncus nisl eget elit
-gravida auctor. Vestibulum ac purus lorem. Mauris scelerisque turpis quis ipsum.
-
-Nulla vel metus pretium, sagittis enim vel, suscipit neque. Donec eleifend purus
-vel ipsum sagittis, at convallis urna venenatis. Nunc condimentum nibh sit amet
-enim congue commodo. In iaculis ante id odio dapibus imperdiet. Pellentesque
-nec erat ac leo tincidunt ultricies sollicitudin ac nisi. Nunc ut congue lacus.
-Cras at sapien nec neque molestie sollicitudin gravida nec magna. Proin pretium,
-quam eu mollis accumsan, lorem justo pulvinar justo, vitae euismod est nunc.
+Whether its using Java to build a fully networked version of a board game,
+building a database management system using SQL Server and Java, python to create
+a file transfer system or node.js to create a grade calculator website for
+students -- I am always looking to experiment and use the newest technologies
+to make simple, useful and reliable software.
