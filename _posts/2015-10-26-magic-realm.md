@@ -12,4 +12,6 @@ Both the client and the server are built using Java.
 
 **The result:**
 Successful! The game is fully networked and playable. Most of the core game play
-from Magic Realm has been implemented. 
+from Magic Realm has been implemented.
+
+[View source code.](https://github.com/filiptodoric/Magic-Realm)
