@@ -89,6 +89,7 @@ footer-links-active:
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
+  google_analytics: "UA-69193468-1"
   analytics :
     provider : google
     gauges :
