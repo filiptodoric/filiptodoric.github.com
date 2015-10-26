@@ -4,10 +4,11 @@ title: My Projects
 ---
 <ul>
   {% for post in site.posts %}
-    <li>
+    <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
-    </li>
+    <hr>
+    </div>
   {% endfor %}
 </ul>
 
