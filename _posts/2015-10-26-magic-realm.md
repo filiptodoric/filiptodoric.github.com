@@ -8,7 +8,10 @@ category: project
 Create a networked, multiplayer version of the classic board game [Magic Realm](https://en.wikipedia.org/wiki/Magic_Realm)
 
 **The technology:**
-Both the client and the server are built using Java.
+Both the client and the server are built using Java and the socket API. Handler
+threads handle the networking and boards are synced with each player after each
+individual turn. The game was developed along side two of my friends and we used
+a agile SDLC. The game developed across two iterations.
 
 **The result:**
 Successful! The game is fully networked and playable. Most of the core game play
