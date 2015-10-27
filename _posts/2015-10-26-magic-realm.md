@@ -5,7 +5,7 @@ category: project
 ---
 
 **The goal:**
-Create a networked, multiplayer version of the classic board game [Magic Realm](https://en.wikipedia.org/wiki/Magic_Realm)
+Create a networked, multiplayer version of the classic board game [Magic Realm](https://en.wikipedia.org/wiki/Magic_Realm).
 Allow users to travel across the board, find gold, engage in combat and fight
 ghosts.  
 
