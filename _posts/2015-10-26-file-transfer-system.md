@@ -5,7 +5,7 @@ category: project
 ---
 
 **The goal:**
-Make a multi-platform Bash inspired file transfer system. Using native and natural
+Make a multi-platform Bash inspired file transfer system. Using native bash
 commands, the user should be able to add, get and create files/directories on the
 server from the client computer.
 
