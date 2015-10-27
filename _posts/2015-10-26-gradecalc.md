@@ -6,10 +6,10 @@ category: project
 
 **The goal:**
 Create a simple application to let students and instructors calculate their grades.
-I want users to be able to create profiles with their classes and grades saved.
-Each time the user visits the site all they'd have to do is input whatever new
-grade they received and they'll have their new mark. And they'll know how hard
-they'll have to study on the final exam to receive an A+.
+I want users to be able to create profiles where their grades are saved for each
+of their classes. Each time the user visits the site they simply input whatever
+new grade they received and their new mark will be updated. Using this, they'll
+know how hard they'll have to study on the final exam to receive an A+.
 
 **The technology:**
 The application is hosted on a VPS running Ubuntu. The web application itself is
