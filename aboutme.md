@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: The guy behind the code. 
+subtitle: The guy behind the code
 ---
 
 I am *almost* done getting my Bachelor's of Computer Science. I'll be graduating
