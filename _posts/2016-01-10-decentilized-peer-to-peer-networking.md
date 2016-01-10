@@ -4,7 +4,7 @@ title: Decentralized Peer to Peer File Sharing
 category: project
 ---
 
-**Intention**
+**Intention:**
 Explore the possibilities of implementing a Decentralized Peer to Peer File
 Sharing system via the Chord algorithm.
 
